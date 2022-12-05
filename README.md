@@ -12,3 +12,4 @@ The second-tier servlets are in charge of handling the SQL command interface for
 The third-tier (back-end) is the persistent MySQL database described above and is under control of the 
 MySQL DBMS server. This database was created on my own and I will upload the files later on in case you want to try running and adding to this project. 
 
+In the src/main folder you will find screenshots of the application running commands. 
